@@ -1,0 +1,1 @@
+My favourite Git feature is the ability to revert a commit and return to a previous version.
